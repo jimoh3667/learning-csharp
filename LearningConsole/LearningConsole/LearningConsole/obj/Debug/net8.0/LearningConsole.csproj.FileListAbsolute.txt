@@ -1,0 +1,14 @@
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\bin\Debug\net8.0\LearningConsole.exe
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\bin\Debug\net8.0\LearningConsole.deps.json
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\bin\Debug\net8.0\LearningConsole.runtimeconfig.json
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\bin\Debug\net8.0\LearningConsole.dll
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\bin\Debug\net8.0\LearningConsole.pdb
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.AssemblyInfoInputs.cache
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.AssemblyInfo.cs
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.dll
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\refint\LearningConsole.dll
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.pdb
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\LearningConsole.genruntimeconfig.cache
+C:\Users\masha\source\repos\LearningConsole\LearningConsole\obj\Debug\net8.0\ref\LearningConsole.dll
